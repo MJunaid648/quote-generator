@@ -1,5 +1,10 @@
 # Quote Generator App
 
+## Live Link
+
+The page is hosted on github pages at:
+https://mjunaid648.github.io/quote-generator/
+
 ## Description
 
 The Quote Generator App is a simple web application that generates random quotes when a button is clicked. It is designed to showcase JavaScript DOM manipulation and serves as a practice project for web developers.
